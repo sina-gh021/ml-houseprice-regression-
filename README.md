@@ -4,7 +4,7 @@ Approach : Non-linear regression
 
 The house_price.csv data set contains:
 
-Area --> house area in M2 
+Area --> house area in M2     
 Room --> number of Bedrooms  
 Parking --> does it have a parking or not 
 Warehouse --> does it have a Warehouse or not  
