@@ -10,7 +10,7 @@ Parking --> does it has a parking or not
 Warehouse --> does it has a Warehouse or not  
 Elevator --> does it has an elevator or not  
 Address --> name of the neighbourhood   
-Price --> Price in IRR (iranian curency)   
+Price --> Price in IRR (iranian currency)   
 Price(USD) --> price in USD   
 
 
