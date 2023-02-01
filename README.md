@@ -1,4 +1,4 @@
-this project can be used to predict  price of a house in thehran based on tehran 
+this project can be used to predict  price of a house in thehran based on tehran \n
 Approach : Non-linear regression 
 the house_price.csv data set contains :
 Area --> house area in M2
